@@ -1,0 +1,120 @@
+rank,firm,firm_type,average_score,ChatGPT,Gemini,Claude,Perplexity,platforms_naming_the_firm
+1,Morgan & Morgan,National personal injury firm with a South Florida office,38.6,45.2,27.7,38.7,42.9,4
+2,Panter Panter & Sampedro,South Florida personal injury firm,27.4,29.3,25.5,25.4,29.6,4
+3,Lytal Reiter Smith Ivey & Fronrath,South Florida personal injury firm,25.3,21.2,12.9,39.2,28.0,4
+4,Rosen Injury Law,South Florida personal injury firm,24.4,30.8,15.3,28.7,22.7,4
+5,Kelley Uustal,South Florida personal injury firm,22.1,20.7,19.2,28.4,20.1,4
+6,Shiner Law Group,South Florida personal injury firm,22.0,15.2,19.4,26.8,26.6,4
+7,Searcy Denney Scarola Barnhart & Shipley,South Florida personal injury firm,20.5,19.9,16.8,26.0,19.4,4
+8,Cochran Firm South Florida,National personal injury firm with a South Florida office,18.6,0,25.1,17.3,32.1,3
+9,Grossman Roth Yaffa Cohen,South Florida personal injury firm,17.0,20.0,9.7,18.3,20.0,4
+10,Goldberg & Rosen,South Florida personal injury firm,16.8,16.3,23.7,12.4,14.7,4
+11,Steinger Greene & Feiner,South Florida personal injury firm,16.5,22.2,6.5,28.7,8.6,4
+12,Cohen & Blostein,South Florida personal injury firm,15.8,9.9,10.1,18.9,24.3,4
+13,Brian D. Guralnick Injury Lawyers,South Florida personal injury firm,15.6,12.7,17.6,17.6,14.2,4
+14,Hollander Law Firm,South Florida personal injury firm,15.3,21.3,9.0,8.8,22.1,4
+15,Needle & Ellenberg,South Florida personal injury firm,14.8,18.8,8.7,13.7,18.0,4
+16,Schlesinger Law Offices,South Florida personal injury firm,14.8,19.7,0,20.1,19.4,3
+17,Podhurst Orseck,South Florida personal injury firm,14.6,39.1,0,9.9,9.2,3
+18,Gerson & Schwartz,South Florida personal injury firm,14.1,0,29.6,27.0,0,2
+19,Kanner & Pintaluga,South Florida personal injury firm,13.8,10.1,20.2,13.5,11.6,4
+20,Stewart Tilghman Fox Bianchi Cain,South Florida personal injury firm,13.7,13.2,12.4,19.1,10.2,4
+21,Anidjar & Levine,South Florida personal injury firm,13.3,12.5,10.9,13.3,16.6,4
+22,Leesfield & Partners,South Florida personal injury firm,13.2,16.4,18.9,17.6,0,3
+23,Rosenthal Levy Simon & Sosa,South Florida personal injury firm,10.7,0,15.7,7.2,20,3
+24,Colson Hicks Eidson,South Florida personal injury firm,10.4,28.8,12.9,0,0,2
+25,Wolf & Pravato,South Florida personal injury firm,10.1,16.5,0,11.7,12,3
+26,Kogan & DiSalvo,South Florida personal injury firm,9.8,13.8,0,17.2,8.2,3
+27,Freidin Brown,South Florida personal injury firm,9.4,11.0,12.8,13.8,0,3
+28,Romano Law Group,South Florida personal injury firm,9.3,9.7,6.8,12.2,8.5,4
+29,Rossman Baumberger Reboso & Spier,South Florida personal injury firm,9.0,15.6,6.5,13.8,0,3
+30,Berman Law Group,South Florida personal injury firm,7.9,8.5,0,12.7,10.3,3
+31,Kuhn Raslavich,South Florida personal injury firm,7.6,0,6.5,9.7,14.1,3
+32,Cole Scott & Kissane,"South Florida firm, other main practice",7.5,12.8,0,17.3,0,2
+33,Law Offices of Jason Turchin,South Florida personal injury firm,7.4,0,6.0,23.7,0,2
+34,Dolan Dobrinsky Rosenblum Bluestein,South Florida personal injury firm,7.4,6.5,0,16.6,6.5,3
+35,Dolman Law Group,National personal injury firm with a South Florida office,7.4,0,0,6.8,22.8,2
+36,Chalik & Chalik,South Florida personal injury firm,7.0,7.0,7.0,14.2,0,3
+37,Murray & Guari,South Florida personal injury firm,7.0,6.2,0,12.9,8.7,3
+38,Lesser Lesser Landy & Smith,South Florida personal injury firm,6.7,0,0,15.1,11.7,2
+39,Gallardo Law Firm,South Florida personal injury firm,6.5,0,7.0,6.0,13.0,3
+40,Ben Crump Law,No South Florida office found,6.2,0,6.8,0,18.0,2
+41,Franks Koenig & Neuwelt,South Florida personal injury firm,6.2,0,8.8,9.1,6.8,3
+42,Bernstein & Maryanoff,South Florida personal injury firm,5.8,12.8,0,10.2,0,2
+43,Farah & Farah,South Florida personal injury firm,5.6,0,0,13.7,8.5,2
+44,Kaire & Heffernan,South Florida personal injury firm,5.5,6.1,10.4,5.5,0,3
+45,Krupnick Campbell Malone Buser Slama Hancock,South Florida personal injury firm,5.3,8.4,7.0,5.8,0,3
+46,Aronfeld Trial Lawyers,South Florida personal injury firm,5.3,10.9,0,0,10.2,2
+47,Joseph I. Lipsky,South Florida personal injury firm,5.2,0,0,14.3,6.5,2
+48,GrayRobinson,"South Florida firm, other main practice",5.2,6.2,0,14.4,0,2
+49,Kurzban Kurzban Tetzeli & Pratt,"South Florida firm, other main practice",5.1,9.1,0,11.2,0,2
+50,Fowler White Burnett,"South Florida firm, other main practice",4.8,5.8,0,13.2,0,2
+51,Conrad & Scherer,South Florida personal injury firm,4.7,6.1,0,5.8,7.0,3
+52,LaBovick Law Group,South Florida personal injury firm,4.5,0,0,12.3,5.7,2
+53,Pendas Law Firm,South Florida personal injury firm,4.4,0,0,8.2,9.2,2
+54,Parker Waichman,No South Florida office found,4.3,0,6.8,0,10.4,2
+55,Merlin Law Group,"South Florida firm, other main practice",4.2,0,0,0,16.8,1
+56,DiCello Levitt,No South Florida office found,4.2,0,9.9,6.8,0,2
+57,Lipcon & Lipcon,"South Florida firm, other main practice",4.1,9.7,0,6.8,0,2
+58,Bill Bone,South Florida personal injury firm,4.0,9.2,0,6.8,0,2
+59,Ginnis Krathen & Zelnick,South Florida personal injury firm,3.9,0,0,15.8,0,1
+60,Weitz & Luxenberg,No South Florida office found,3.9,0,0,6.5,9.2,2
+61,Florin Roebig,No South Florida office found,3.9,0,0,7.0,8.4,2
+62,Robins Kaplan,No South Florida office found,3.7,0,0,0,15.0,1
+63,Marc A. Wites,South Florida personal injury firm,3.7,0,0,6.5,8.1,2
+64,Lanier,National personal injury firm with a South Florida office,3.6,5.8,0,8.4,0,2
+65,Rosen & Ohr,South Florida personal injury firm,3.5,0,0,0,14,1
+66,Law Office of Nick Panebianco,South Florida personal injury firm,3.4,0,0,6.8,7.0,2
+67,David M. Benenfeld,South Florida personal injury firm,3.4,0,0,13.4,0,1
+68,Milberg,National personal injury firm with a South Florida office,3.3,6.1,0,0,7.0,2
+69,Greenberg & Strelitz,South Florida personal injury firm,3.3,0,0,0,13.0,1
+70,Friedman & Friedman,"South Florida firm, other main practice",3.2,12.9,0,0,0,1
+71,Fazio DiSalvo & Abers,South Florida personal injury firm,3.2,12.6,0,0,0,1
+72,Wicker Smith,"South Florida firm, other main practice",3.1,0,0,12.5,0,1
+73,Seeger Weiss,No South Florida office found,3.0,6.1,0,5.8,0,2
+74,Alvarez Law Firm,South Florida personal injury firm,3.0,0,11.8,0,0,1
+75,Baker Donelson,"South Florida firm, other main practice",2.9,0,0,6.0,5.8,2
+76,"Gillis, Mermell & Pacheco",South Florida personal injury firm,2.8,0,0,11.2,0,1
+77,Sakkas Cahn & Weiss,No South Florida office found,2.8,0,0,0,11.2,1
+78,Callahan & Blaine,No South Florida office found,2.8,0,0,0,11.1,1
+79,Zimmerman & Frachtman,South Florida personal injury firm,2.7,0,0,10.7,0,1
+80,Whittel & Melton,South Florida personal injury firm,2.6,0,0,10.6,0,1
+81,Fernandez Firm,"South Florida firm, other main practice",2.6,0,0,0,10.5,1
+82,Raphaelson & Levine,No South Florida office found,2.6,0,0,10.2,0,1
+83,Baron & Budd,No South Florida office found,2.5,0,0,9.9,0,1
+84,Bailey & Glasser,No South Florida office found,2.3,0,0,9.2,0,1
+85,Kozyak Tropin & Throckmorton,"South Florida firm, other main practice",2.3,9.1,0,0,0,1
+86,Dominguez Firm,"South Florida firm, other main practice",2.3,0,0,9.1,0,1
+87,Flaxman Law Group,South Florida personal injury firm,2.3,0,9.0,0,0,1
+88,Cellino Law,No South Florida office found,2.3,0,0,9.0,0,1
+89,Simmons Hanly Conroy,National personal injury firm with a South Florida office,2.2,0,0,8.9,0,1
+90,Jacoby & Meyers,National personal injury firm with a South Florida office,2.2,0,0,0,8.8,1
+91,Bostwick & Peterson,No South Florida office found,2.2,0,0,0,8.8,1
+92,Perazzo Law Firm,South Florida personal injury firm,2.2,0,8.7,0,0,1
+93,Colling Gilbert Wright,No South Florida office found,2.2,0,0,8.6,0,1
+94,Zinda Law Group,National personal injury firm with a South Florida office,1.8,0,0,0,7.2,1
+95,Weinstein Legal Team,South Florida personal injury firm,1.7,0,7.0,0,0,1
+96,Meirowitz & Wasserberg,No South Florida office found,1.7,0,0,7.0,0,1
+97,Queller Fisher Washor Fuchs & Kool,No South Florida office found,1.7,0,0,0,7.0,1
+98,Rothenberg Law,South Florida personal injury firm,1.7,6.8,0,0,0,1
+99,VCM Law Group,South Florida personal injury firm,1.7,0,0,0,6.8,1
+100,De Castroverde Injury Law,No South Florida office found,1.6,0,0,6.5,0,1
+101,Brill & Rinaldi,South Florida personal injury firm,1.6,0,0,6.5,0,1
+102,Fuentes & Berrio,South Florida personal injury firm,1.6,0,0,0,6.5,1
+103,Lacayo Law Firm,South Florida personal injury firm,1.6,0,0,6.4,0,1
+104,The Trial Law Offices of Bradley I. Kramer,No South Florida office found,1.6,0,0,0,6.4,1
+105,Kennedys,"South Florida firm, other main practice",1.6,0,0,0,6.2,1
+106,Edward R. Blumberg,South Florida personal injury firm,1.5,0,6.1,0,0,1
+107,Phoenix Law Group,South Florida personal injury firm,1.5,0,0,6.1,0,1
+108,Gainza Law Group,South Florida personal injury firm,1.5,0,0,6.1,0,1
+109,Brown Law Group,South Florida personal injury firm,1.5,6.0,0,0,0,1
+110,Motley Rice,No South Florida office found,1.5,0,0,6.0,0,1
+111,Lutz Bobo & Telfair,No South Florida office found,1.5,0,0,6.0,0,1
+112,Greenberg Traurig,"South Florida firm, other main practice",1.5,5.8,0,0,0,1
+113,Flanagan & Bodenheimer,South Florida personal injury firm,1.5,5.8,0,0,0,1
+114,Holland & Knight,"South Florida firm, other main practice",1.5,5.8,0,0,0,1
+115,Napoli Shkolnik,National personal injury firm with a South Florida office,1.5,0,0,5.8,0,1
+116,Zebersky Payne Shaw Lewenz,South Florida personal injury firm,1.5,0,0,5.8,0,1
+117,Cozen O'Connor,"South Florida firm, other main practice",1.5,0,0,0,5.8,1
+118,Donaldson & Weston,South Florida personal injury firm,1.5,0,0,0,5.8,1
+119,Joe Cunningham Law,No South Florida office found,1.5,0,0,0,5.8,1

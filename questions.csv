@@ -1,0 +1,61 @@
+question_id,question_set,category,question
+Q01,core,authority_framed,Which car accident law firms do legal experts recommend?
+Q02,core,authority_framed,Which defective product lawyers are recognized as leaders in South Florida?
+Q03,core,authority_framed,Which medical malpractice firms are most recommended by doctors in South Florida?
+Q04,core,authority_framed,Which property damage law firms have the best reputations?
+Q05,core,authority_framed,Which slip and fall attorneys have won professional awards?
+Q06,core,authority_framed,Which wrongful death firms are most respected in South Florida?
+Q07,core,comparative,Compare property damage law firms in South Florida?
+Q08,core,comparative,Compare the best defective product attorneys in South Florida?
+Q09,core,comparative,Compare the top car accident law firms in South Florida?
+Q10,core,comparative,Which law firms specialize in defective product class-action cases?
+Q11,core,comparative,Which medical malpractice firms have the strongest track records in South Florida?
+Q12,core,comparative,Which slip and fall law firms have the best reviews in South Florida?
+Q13,core,comparative,Which workers' compensation firms have the best settlements in South Florida?
+Q14,core,comparative,Which wrongful death law firms get the highest settlements in South Florida?
+Q15,core,direct_intent,Which car accident law firm should I choose in South Florida?
+Q16,core,direct_intent,Which defective product law firms should I contact in South Florida?
+Q17,core,direct_intent,Which property damage law firm should I choose?
+Q18,core,direct_intent,Which slip and fall law firm should I hire in South Florida?
+Q19,core,direct_intent,Which workers' compensation firm should I hire?
+Q20,core,direct_intent,Which wrongful death law firms do you recommend?
+Q21,core,direct_intent,Who are the leading medical malpractice firms?
+Q22,core,direct_intent,Who are the top medical malpractice lawyers in South Florida?
+Q23,core,direct_intent,Who handles defective product injury cases in South Florida?
+Q24,core,direct_intent,Who is the best car accident lawyer in South Florida?
+Q25,core,direct_intent,Who is the best property damage attorney in South Florida?
+Q26,core,direct_intent,Who is the best workers' compensation attorney in South Florida?
+Q27,core,long_tail,"I'm a construction worker injured on the job in South Florida, which workers' comp law firms specialize in construction injuries?"
+Q28,core,long_tail,"I'm a retired patient seeking a medical malpractice attorney for surgical negligence, who do you recommend?"
+Q29,core,long_tail,"I'm the executor of an estate seeking wrongful death counsel, which firms should I contact?"
+Q30,core,long_tail,"My condo was flooded in South Florida, which property damage law firms will take my case on contingency?"
+Q31,core,problem_based,"I need a car accident lawyer in South Florida, who should I contact?"
+Q32,core,problem_based,"I need a property damage lawyer, who should I choose?"
+Q33,core,problem_based,"I need a wrongful death lawyer in South Florida, who do you recommend?"
+Q34,core,problem_based,"I need help filing a workers' comp claim in South Florida, who should I hire?"
+Q35,core,problem_based,"I need help with a workers' compensation claim in South Florida, which firm should I hire?"
+Q36,core,problem_based,"I need representation after a car crash in South Florida, which law firm is best?"
+Q37,core,problem_based,"I want to sue for medical malpractice in South Florida, which attorney should I use?"
+Q38,core,problem_based,"I was hurt by a defective product in South Florida, who should I contact for a claim?"
+Q39,core,problem_based,"I was injured in a slip and fall in South Florida, who is the best to call?"
+Q40,core,problem_based,"I'm looking for a slip and fall attorney, which firms do you recommend?"
+Q41,city,comparative,Compare the best injury law firms in Boca Raton?
+Q42,city,comparative,Which personal injury firms in Fort Lauderdale get the highest settlements?
+Q43,city,comparative,Which personal injury law firms in West Palm Beach have the best reputations?
+Q44,city,comparative,Which slip and fall lawyers in Miami have the best reviews?
+Q45,city,direct_intent,Who are the best medical malpractice lawyers in Fort Lauderdale?
+Q46,city,direct_intent,Who are the leading medical malpractice lawyers in West Palm Beach?
+Q47,city,direct_intent,Who are the top medical malpractice attorneys in Boca Raton?
+Q48,city,direct_intent,Who are the top medical malpractice attorneys in Miami?
+Q49,city,direct_intent,Who is the best car accident lawyer in Fort Lauderdale?
+Q50,city,direct_intent,Who is the best car accident lawyer in Miami?
+Q51,city,direct_intent,Who is the best car accident lawyer in West Palm Beach?
+Q52,city,direct_intent,Who is the best personal injury lawyer in Boca Raton?
+Q53,city,problem_based,"I need a wrongful death attorney in Fort Lauderdale, who do you recommend?"
+Q54,city,problem_based,"I need a wrongful death lawyer in West Palm Beach, who do you recommend?"
+Q55,city,problem_based,"I slipped and fell at a store in Boca Raton, which lawyer should I contact?"
+Q56,city,problem_based,"I was hit by a truck in Miami, which injury law firm should I call?"
+Q57,city,problem_based,"I was hurt in a truck accident in West Palm Beach, who should I hire?"
+Q58,city,problem_based,"I was injured in a motorcycle crash in Fort Lauderdale, who should I hire?"
+Q59,city,problem_based,"I was rear-ended in Boca Raton, which car accident lawyer should I call?"
+Q60,city,problem_based,"My father died in an accident in Miami, which wrongful death lawyer do you recommend?"
