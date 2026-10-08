@@ -5,6 +5,7 @@ Which law firms do ChatGPT, Gemini, Claude and Perplexity recommend when people 
 - Report and method: https://www.citationos.ai/research/south-florida-pi-ai-visibility-index-october-2026.html
 - Collected: 7 October 2026 (one data-collection window), via each platform's API
 - License: CC BY 4.0. Please cite (see below).
+- DOI: [10.5281/zenodo.23238387](https://doi.org/10.5281/zenodo.23238387) (Zenodo; always resolves to the latest version)
 
 > **Important: the answers are raw, unedited AI output.** They can contain errors about real law firms, such as wrong locations, practice areas, results or awards. Nothing in `answer_text` has been verified by CitationOS. Do not treat it as a statement of fact about any firm.
 
@@ -58,7 +59,7 @@ CitationOS reruns the same questions weekly. Later snapshots may be added to thi
 
 ## How to cite
 
-CitationOS (2026). *South Florida Personal Injury AI Visibility Index, Edition 2 (October 2026)* [Data set]. https://www.citationos.ai/research/south-florida-pi-ai-visibility-index-october-2026.html
+CitationOS (2026). *South Florida Personal Injury AI Visibility Index, Edition 2 (October 2026)* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23238387
 
 ## Contact
 
