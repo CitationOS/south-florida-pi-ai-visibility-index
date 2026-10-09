@@ -1,17 +1,41 @@
 {
   "title": "South Florida Personal Injury AI Visibility Index, Edition 2 (October 2026): 720 answers from ChatGPT, Gemini, Claude and Perplexity",
   "upload_type": "dataset",
-  "description": "<p>Which law firms do ChatGPT, Gemini, Claude and Perplexity recommend when people in South Florida ask who to call after an accident? 60 questions, asked 3 times each on 4 AI assistants with web search enabled (720 answers), collected on 7 October 2026 via each platform's API. Includes the full answer text, the sources each answer cited, the firms each answer named, firm scores for the 119 firms named, and every cited domain.</p><p>The answers are raw, unedited AI output and may contain errors about real law firms; they have not been fact-checked. Firms that no assistant named are not identified by name.</p><p>Report and method: https://www.citationos.ai/research/south-florida-pi-ai-visibility-index-october-2026.html</p>",
+  "description": "<p>Which law firms do ChatGPT, Gemini, Claude and Perplexity recommend when people in South Florida ask who to call after an accident? 60 questions, asked 3 times each on 4 AI assistants with web search enabled (720 answers), collected on 7 October 2026 via each platform's API. Includes the full answer text, the sources each answer cited, the firms each answer named, the number of answers naming each firm on each platform, and every cited domain.</p><p><strong>Version 1.1 (9 October 2026)</strong> corrects version 1.0, whose firm lists undercounted the firms named (see the changelog in README.md). Firm scores from version 1.0 are withdrawn.</p><p>The answers are raw, unedited AI output and may contain errors about real law firms; they have not been fact-checked. Firms that no assistant named are not identified by name.</p><p>Report and method: https://www.citationos.ai/research/south-florida-pi-ai-visibility-index-october-2026.html</p>",
   "creators": [
-    { "name": "Acikgoz, Kivanc", "affiliation": "CitationOS" }
+    {
+      "name": "Acikgoz, Kivanc",
+      "affiliation": "CitationOS"
+    }
   ],
   "license": "cc-by-4.0",
-  "keywords": ["AI visibility", "generative engine optimization", "large language models", "web search", "citations", "legal services", "law firms", "Florida", "ChatGPT", "Gemini", "Claude", "Perplexity"],
-  "version": "Edition 2 (2026-10)",
-  "publication_date": "2026-10-08",
+  "keywords": [
+    "AI visibility",
+    "generative engine optimization",
+    "large language models",
+    "web search",
+    "citations",
+    "legal services",
+    "law firms",
+    "Florida",
+    "ChatGPT",
+    "Gemini",
+    "Claude",
+    "Perplexity"
+  ],
+  "version": "1.1",
+  "publication_date": "2026-10-09",
   "language": "eng",
   "related_identifiers": [
-    { "identifier": "https://www.citationos.ai/research/south-florida-pi-ai-visibility-index-october-2026.html", "relation": "isSupplementTo", "resource_type": "publication-report" },
-    { "identifier": "https://huggingface.co/datasets/CitationOS/south-florida-pi-ai-visibility-index", "relation": "isIdenticalTo", "resource_type": "dataset" }
+    {
+      "identifier": "https://www.citationos.ai/research/south-florida-pi-ai-visibility-index-october-2026.html",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-report"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/CitationOS/south-florida-pi-ai-visibility-index",
+      "relation": "isIdenticalTo",
+      "resource_type": "dataset"
+    }
   ]
 }
